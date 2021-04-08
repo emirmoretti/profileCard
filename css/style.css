@@ -31,7 +31,7 @@ hr {
     margin: 40% auto;
 }
 .imgcontainer {
-    background: url(../images/bg-pattern-card.svg) repeat;
+    background: url(../images/bg-pattern-card.svg);
     padding-top: 2.5rem;
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
