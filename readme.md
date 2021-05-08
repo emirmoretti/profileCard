@@ -24,7 +24,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [My solution](https://emirmoretti.github.io/profileCard/)
+- Solution URL: [My solution](https://emirmoretti.github.io/profileCardFm/)
 ### Built with
 
 - Semantic HTML5 markup
